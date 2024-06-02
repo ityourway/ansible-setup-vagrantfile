@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE="/tmp/example.txt"
+FILE="example.txt"
 EXPECTED_CONTENT="Hello, World!"
 
 # Check if the file exists
